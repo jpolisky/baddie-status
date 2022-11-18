@@ -31,7 +31,7 @@ h1 {
   width: 150px;
   margin-left: clamp(4rem, 50vw - 75px, 48rem);
   margin-top: 25px;
-  background-color: var(--yellow);
+  background-color: var(--red);
   border: 3px solid #eee;
   border-radius: 16px;
   
